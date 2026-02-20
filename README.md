@@ -23,12 +23,15 @@ THE JUDGE is a text-based strategy game inspired by Death Note. You play as a my
 
    Clone the repository
 
-   <code>git clone https://github.com/CesarR70/The-Judge.git</code>
-   <code>cd The-Judge</code>
-
+   ```bash
+   git clone https://github.com/CesarR70/The-Judge.git
+   cd The-Judge
+   ```
    Run the game (requires Python 3.6 or higher)
 
-   <code>python3 The-Judge.py</code>
+   ```bash
+   python3 The-Judge.py
+   ```
 
 That's it! No external dependencies—just the Python standard library.
 ## 🕹️ How to Play
