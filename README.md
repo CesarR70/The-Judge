@@ -5,19 +5,19 @@ You are The Judge. An ordinary person who stumbled upon something extraordinary.
 THE JUDGE is a text-based strategy game inspired by Death Note. You play as a mysterious figure who possesses a magic notebook—anyone whose name is written in it dies of a heart attack. Your mission: survive 20 turns by eliminating criminals while evading the police. Manage your popularity, outsmart detectives, and decide who deserves to die.
 ## 🎮 Features
 
-## -Immersive text‑based gameplay with typewriter effects and dynamic news headlines.
+ - **Immersive text‑based gameplay with typewriter effects and dynamic news headlines.**
 
-## -Unique criminals and detectives – each with a crime, danger level, and assigned investigator.
+ - **Unique criminals and detectives – each with a crime, danger level, and assigned investigator.**
 
-## -Strategic choices – kill only the criminal, or eliminate the detective too? Every decision affects your capture risk and public opinion.
+ - **Strategic choices – kill only the criminal, or eliminate the detective too? Every decision affects your capture risk and public opinion.**
 
-## -Risk‑reward system – high‑profile criminals give bigger rewards but also increase the chance of getting caught.
+ - **Risk‑reward system – high‑profile criminals give bigger rewards but also increase the chance of getting caught.**
 
-## -Popularity mechanic – become a folk hero (or a villain) and gain protection when the public supports you.
+ - **Popularity mechanic – become a folk hero (or a villain) and gain protection when the public supports you.**
 
-## -Skip turns – lay low when the heat is too high (up to 5 skips per game).
+ - **Skip turns – lay low when the heat is too high (up to 5 skips per game).**
 
-## -Multiple endings based on your final popularity and whether you survive.
+ - **Multiple endings based on your final popularity and whether you survive.**
 
 ## 📦 Installation
 
